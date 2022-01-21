@@ -15,8 +15,8 @@ C:.</br>
 │</br>
 ├─build</br>
 │  └─classes</br>
-│      └─first</br>
-│              First.class</br>
+│      └─first // 패키지명</br>
+│              First.class //클래스명</br>
 │</br>
 └─src</br>
     └─main</br>
