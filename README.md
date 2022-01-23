@@ -15,13 +15,13 @@ C:.</br>
 │</br>
 ├─build</br>
 │  └─classes</br>
-│      └─first // 패키지명</br>
-│              First.class //클래스명</br>
+│      └─first </br>
+│              First.class </br>
 │</br>
 └─src</br>
     └─main</br>
         ├─java</br>
-        │  └─first</br>
+        │  └─first // 패키지명</br>
         │          First.java</br>
         │</br>
         └─webapp</br>
