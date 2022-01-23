@@ -22,7 +22,7 @@ C:.</br>
     └─main</br>
         ├─java</br>
         │  └─first // 패키지명</br>
-        │          First.java</br>
+        │          First.java //클래스명 </br>
         │</br>
         └─webapp</br>
             ├─META-INF</br>
